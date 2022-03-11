@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Table of Contents.md",
-            "mode": "preview",
+            "file": "README.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Table of Contents.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1a691504d771f580",
   "lastOpenFiles": [
+    "README.md",
+    "change obsidian wikilink style to traditional git supported style linking.md",
+    "templates/timestamp.md",
     "Notes/Table of Contents.md",
     "Notes/Attachments and embed.md",
     "example tests/hover test.md",
     "Notes/Resources.md",
     "Notes/Basic Syntax.md",
     "example tests/oh freak! this is the tool tip feature i was looking for!.md",
-    "example tests/double bracket test.md",
-    "example tests/Read Mode note^.md",
-    "example tests/what i do here.md",
-    "2022-03-02_654pm.md"
+    "example tests/double bracket test.md"
   ]
 }
