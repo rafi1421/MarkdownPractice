@@ -1,0 +1,91 @@
+{
+  "workspaces": {
+    "WorkspaceTrials": {
+      "main": {
+        "id": "dbec49cfbe86eedd",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad15ad31cae49070",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ec5d331d65f574de",
+        "type": "split",
+        "children": [
+          {
+            "id": "7d643f2208038267",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "770754ca19872b8c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8faef3a68fbd4013",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#subheading",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "9e2cc14781d625d9",
+        "type": "split",
+        "children": [
+          {
+            "id": "80b42dc3db3ccea6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "97b52f689ad1ce34",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "ad15ad31cae49070"
+    }
+  },
+  "active": "WorkspaceTrials"
+}

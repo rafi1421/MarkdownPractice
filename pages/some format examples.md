@@ -1,0 +1,4 @@
+- *italics*
+- **bold**
+- <ins>underline</ins>
+- ==highlight this==

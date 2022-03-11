@@ -1,0 +1,26 @@
+- I stumbled across Logseq about a month after discovering Obsidian, and love what I see so far! Here are my initial thoughts comparing the two:
+- Compelling reasons are ==highlighted==
+- [[LogSeq]] is better for:
+	- Outlining
+	- Journalling
+	- ==To do list / [[Task management]]==
+	- Linking to paragraphs and focus mode
+	- Using from a browser
+		- ==using at work== via browser and github
+	- Look and feel
+	- simplicity
+	- Slideshow
+- [[Obsidian]] is better for:
+	- Platform stability (more mature)
+		- Mobile platform (this may change)
+	- ==Data backup==
+	- plugins
+	- Graph and local graph
+		- nodes are hyperlinked
+	- Search
+	- embedding pics (just unsure how to do this on Logseq yet)
+	- Templates (untested)
+- Things which are different and interesting
+	- Tags
+		- Obsidian tags are traditional
+		- Logseq tags are like links

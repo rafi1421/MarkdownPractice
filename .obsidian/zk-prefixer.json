@@ -1,0 +1,4 @@
+{
+  "template": "templates/timestamp",
+  "format": "YYYY-MM-DD_hmma"
+}

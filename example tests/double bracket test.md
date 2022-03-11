@@ -1,0 +1,1 @@
+Double brackets auto links to another markdown page in your workspace

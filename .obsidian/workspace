@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "dbec49cfbe86eedd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a691504d771f580",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Table of Contents.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec5d331d65f574de",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d643f2208038267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "770754ca19872b8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8faef3a68fbd4013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#subheading",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e2cc14781d625d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b42dc3db3ccea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b52f689ad1ce34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Table of Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1a691504d771f580",
+  "lastOpenFiles": [
+    "Notes/Table of Contents.md",
+    "Notes/Attachments and embed.md",
+    "example tests/hover test.md",
+    "Notes/Resources.md",
+    "Notes/Basic Syntax.md",
+    "example tests/oh freak! this is the tool tip feature i was looking for!.md",
+    "example tests/double bracket test.md",
+    "example tests/Read Mode note^.md",
+    "example tests/what i do here.md",
+    "2022-03-02_654pm.md"
+  ]
+}
