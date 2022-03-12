@@ -14,7 +14,7 @@ Wednesday, March 02, 2022  7:17 PM
 - ### [Attachments and embed](<Notes/Attachments and embed.md>)
 - what
 - [[what]]
-- [[whats the folder structure like?]]
+- [whats the folder structure like?](<pages/whats the folder structure like_.md>)
 - id:: 622a795f-f7e0-4dcd-b432-9df8653cad32
   
   [[change obsidian wikilink style to traditional git supported style linking]]
