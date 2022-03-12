@@ -7,10 +7,11 @@ Wednesday, March 02, 2022  7:17 PM
 	- https://www.markdownguide.org/basic-syntax
 	- [[some format examples]]
 	-
-- ### [hover test](example tests/hover test.md)
+- ### [hover test](<example tests/hover test.md>)
+	- logseq & another markdown file i had can recognize spaces in the (file path) but not github.
 - ### [[timestamp|Timestamp Template]]
 	- ### [[timestamp]]
-- ### [Attachments and embed](Notes/Attachments and embed.md)
+- ### [Attachments and embed](<Notes/Attachments and embed.md>)
 - what
 - [[what]]
 - [[whats the folder structure like?]]
