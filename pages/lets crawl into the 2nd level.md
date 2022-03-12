@@ -1,8 +1,6 @@
 - gonna paste a screenshot here to see where its placed
 	- ![image.png](../assets/image_1646951095177_0.png)
-	
 - [[dive to the 3rd level]]
-
 - [manual link to 3rd level for compatibilitity](<dive to the 3rd level.md>)
-
-  
+	- wow thats stupid. regular markdown and obsidian recogonizes this link and alternate name correctly, but logseq actually links it to the name written inbetween the [], so the actual name needs to be used for a relative file path like below
+- [dive to the 3rd level](<dive to the 3rd level.md>)
